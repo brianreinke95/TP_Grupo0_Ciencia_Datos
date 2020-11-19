@@ -7,7 +7,9 @@
 Universidad Tecnológica Nacional
 Cátedra de Ciencia de Datos - 2020
 
-Reinke, Brian                               De Stefano, Tomas                               Kopyto, Pedro 
+. Reinke, Brian                               
+. De Stefano, Tomas                               
+. Kopyto, Pedro 
 
  
 Abstract: A lo largo del informe analizaremos los datos obtenidos de los espacios verdes en la Ciudad Autónoma de Buenos Aires (CABA), como así también su población y el presupuesto que destinó espacios verdes
